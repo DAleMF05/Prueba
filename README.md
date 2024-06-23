@@ -1,4 +1,4 @@
-# 26/4 Que hicimos :
+## Que hicimos :
 
 ## Establecemos la conexión en un archivo externo.
 ## Agregamos acciones a la tabla.
